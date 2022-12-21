@@ -1,4 +1,4 @@
-package br.com.siecola.aws_project01;
+package com.douglasmitsue.aws_project01;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

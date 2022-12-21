@@ -1,0 +1,2 @@
+com/douglasmitsue/aws_project01/AwsProject01ApplicationTests.java
+ com.douglasmitsue.aws_project01.AwsProject01ApplicationTests
